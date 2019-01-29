@@ -1,0 +1,50 @@
+{
+    "theme": {
+        "statusBarStyle": 0,
+        "tintColor":"#ffffff",
+        "themeColor":"#4196ff",
+        "bgColor": "#ffffff",
+        "lightBgColor": "#eeeef0",
+        "destructiveColor": "#f63f3f",
+        "fonts": {
+            "h1": {
+                "color": "#31353b"
+            },
+            "h2": {
+                "color": "#31353b"
+            },
+            "h3": {
+                "color": "#81858a"
+            },
+            "h4": {
+                "color": "#c8cacc"
+            }
+        }
+    },
+    "nav": {
+        "themeColor":"#fafafa",
+        "filterColor": "#4196ff",
+        "fonts": {
+            "b1": {
+                "color": "#31353b"
+            },
+            "b2": {
+                "color": "#81858a"
+            }
+        }
+    },
+    "list":{
+        "cell": {
+            "separateColor": "#e5e5e5",
+            "selectedColor": "#e3effc",
+            "highlightedColor": "#4196ff"
+        }
+    },
+    "tab":{
+        "fonts": {
+            "b1": {
+                "color": "#31353b"
+            }
+        }
+    }
+}
